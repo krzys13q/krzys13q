@@ -1,15 +1,17 @@
-<h1>Witaj na moim profilu 🙌.</h1>
+<h1><b>Witam na moim profilu 🙌.</b></h1>
 
-Języki którymi się posługuje : SQL / PHP/ JS / HTML / CSS
+-Języki którymi się posługuje : SQL / PHP/ JS / HTML / CSS
 
-
-
-
+-🔭 aktualnie udoskonalam swoją wiedze z zakresu javascript.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krzys13q)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
 
 ![GitHub metrics](https://metrics.lecoq.io/krzys13q)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=krzys13q)  
+
 
