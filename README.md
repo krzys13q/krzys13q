@@ -11,7 +11,7 @@
 
 
 
-![GitHub metrics](https://metrics.lecoq.io/krzys13q)  
+
 
 
 
